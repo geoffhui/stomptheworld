@@ -4,4 +4,6 @@ How the points work:
 - Higher points = more negative impact to the environment
 - Lower points = less negative impact to the environment
 
+This application was created using Phaser 3, a Javascript framework.
+
 To run this application with the best experience, go to https://geoffhui.github.io/projects/stomptheworld/main.html on a mobile device.

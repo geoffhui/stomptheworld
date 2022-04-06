@@ -1,9 +1,9 @@
 # Stomp The World
 
-## Technology
+### Technology
 HTML, CSS, Javascript, Phaser 3
 
-## Description
+### Description
 Stomp The World is a mobile game that mimics real life, with a goal to bring attention to climate change. The player is able to interact with everyday objects around the house and play mini games to gather points.
 
 How the points work:

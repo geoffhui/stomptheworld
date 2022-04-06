@@ -19,5 +19,7 @@ How the points work:
 # Gameplay
 ![image](https://user-images.githubusercontent.com/46513334/162038747-276ce315-82f0-44c3-8468-dfdaf9ab490e.png)
 ![image](https://user-images.githubusercontent.com/46513334/162038836-2f752d32-8942-42c1-83d0-f3899746817d.png)
+![image](https://user-images.githubusercontent.com/46513334/162039473-5d12bcf0-3e22-4004-8eab-80aadfed04f8.png)
 ![image](https://user-images.githubusercontent.com/46513334/162038959-3b2f16f0-92e5-4b32-b1ea-3fc499b162fd.png)
+![image](https://user-images.githubusercontent.com/46513334/162039525-643a2a34-180f-40a4-8019-371271eb23dc.png)
 ![image](https://user-images.githubusercontent.com/46513334/162038980-78cd99b2-9a41-4247-a730-b3091ff4d345.png)

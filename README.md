@@ -3,13 +3,16 @@
 <h3> Technology </h3>
 HTML, CSS, Javascript, Phaser 3
 
+<br>
+
+# Description
 Stomp The World is a mobile game that mimics real life, with a goal to bring attention to climate change. The player is able to interact with everyday objects around the house and play mini games to gather points.
 
 How the points work:
 - Higher points = more negative impact to the environment
 - Lower points = less negative impact to the environment
 
-# Screenshots
+<h2> Screenshots </h2> <br>
 # Sign-In Page 
 ![image](https://user-images.githubusercontent.com/46513334/162038436-1523b3b0-5d8c-4593-b73d-b60e8aa315c1.png)
 

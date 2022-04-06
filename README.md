@@ -10,13 +10,13 @@ How the points work:
 - Lower points = less negative impact to the environment
 
 # Screenshots
-<h3> Sign-In Page </h3> <br>
+Sign-In Page <br>
 ![image](https://user-images.githubusercontent.com/46513334/162038436-1523b3b0-5d8c-4593-b73d-b60e8aa315c1.png)
 
-<h3> Main Page </h3> <br>
+Main Page <br>
 ![image](https://user-images.githubusercontent.com/46513334/162038600-a195a3cf-f4ec-403d-8b9e-5d1180c12602.png)
 
-<h3> Gameplay </h3> <br>
+Gameplay <br>
 ![image](https://user-images.githubusercontent.com/46513334/162038747-276ce315-82f0-44c3-8468-dfdaf9ab490e.png)
 ![image](https://user-images.githubusercontent.com/46513334/162038836-2f752d32-8942-42c1-83d0-f3899746817d.png)
 ![image](https://user-images.githubusercontent.com/46513334/162038959-3b2f16f0-92e5-4b32-b1ea-3fc499b162fd.png)

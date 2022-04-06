@@ -9,7 +9,7 @@ How the points work:
 - Higher points = more negative impact to the environment
 - Lower points = less negative impact to the environment
 
-<h2> Screenshots </h2>
+# Screenshots
 # Sign-In Page 
 ![image](https://user-images.githubusercontent.com/46513334/162038436-1523b3b0-5d8c-4593-b73d-b60e8aa315c1.png)
 
